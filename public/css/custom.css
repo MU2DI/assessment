@@ -1,0 +1,57 @@
+/* Custom styles for your school management system */
+.school-brand {
+    font-weight: bold;
+    color: #3c8dbc;
+}
+
+.user-panel img {
+    border: 2px solid #fff;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+/* Custom badge colors */
+.badge-school {
+    background-color: #3c8dbc;
+    color: white;
+}
+
+.badge-student {
+    background-color: #00a65a;
+    color: white;
+}
+/* Custom sidebar styling */
+.sidebar-dark-primary .nav-header {
+    color: #6c757d;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+}
+
+/* Icon spacing */
+.nav-icon {
+    margin-right: 0.5rem;
+}
+
+/* Brand logo center */
+.brand-link.text-center {
+    text-align: center;
+    justify-content: center;
+}
+
+/* Small box improvements */
+.small-box {
+    transition: transform 0.2s;
+}
+
+.small-box:hover {
+    transform: translateY(-5px);
+}
+
+/* Info box improvements */
+.info-box {
+    border-radius: 0.25rem;
+    box-shadow: 0 0 1px rgba(0,0,0,0.1);
+}
+
